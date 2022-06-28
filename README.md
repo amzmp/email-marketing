@@ -1,6 +1,6 @@
 # O que devo fazer no teste
   
-Você precisa construir um e-mail marketing, utilizando a imagem emkt-teste.jpg como referencia para desenvolvimento
+Você precisa construir um e-mail marketing, utilizando a imagem [emkt-teste.jpg](https://github.com/amzmp/email-marketing/blob/main/emkt-teste.jpg) como referencia para desenvolvimento
 
 O Email marketing deve ser construido seguindo o máximo possível de semelhança com a imagem informada. O email precisa ser obrigatóriamente desenvolvido em HTML
     
